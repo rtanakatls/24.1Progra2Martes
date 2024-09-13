@@ -45,6 +45,11 @@
   <ItemGroup>
     <Compile Include="Enemy.cs" />
     <Compile Include="LifeCannotBeNegativeException.cs" />
+    <Compile Include="NotificationExample\INotification.cs" />
+    <Compile Include="NotificationExample\NotificationHandler.cs" />
+    <Compile Include="NotificationExample\NotificationMenu.cs" />
+    <Compile Include="NotificationExample\ScoreNotification.cs" />
+    <Compile Include="NotificationExample\TextNotification.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
